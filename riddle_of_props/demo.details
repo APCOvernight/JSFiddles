@@ -1,0 +1,11 @@
+---
+ name: Riddle of Props
+ description: Prove that props can be used in applications
+ authors:
+    - Mike Hingley
+ dtd: html 5
+ wrap: d
+ panel_html: 0
+ panel_js: 0
+ panel_css: 0
+...
