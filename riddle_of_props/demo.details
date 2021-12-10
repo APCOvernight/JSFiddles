@@ -1,11 +1,12 @@
+/*
 ---
- name: Riddle of Props
- description: Prove that props can be used in applications
- authors:
-    - Mike Hingley
- dtd: html 5
- wrap: d
- panel_html: 0
- panel_js: 0
- panel_css: 0
+name: Riddle of Props
+description: Prove that props can be used in applications
+authors:
+  - Mike Hingley
+normalize_css: yes
+lang_css: SCSS
 ...
+*/
+
+<p>For sanities sake - let's prove that we can pass information INTO a VueJS application.</p> 
